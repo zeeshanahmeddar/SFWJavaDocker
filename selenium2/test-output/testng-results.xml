@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[LoginTest started]]>
+    </line>
+    <line>
+      <![CDATA[testLoginToApplication test started]]>
+    </line>
+    <line>
+      <![CDATA[testLoginToApplication test passed]]>
+    </line>
+    <line>
+      <![CDATA[LoginTest started]]>
+    </line>
+    <line>
+      <![CDATA[LoginTest finished]]>
+    </line>
+    <line>
+      <![CDATA[RegistrationTest started]]>
+    </line>
+    <line>
+      <![CDATA[testLoginApplication test started]]>
+    </line>
+    <line>
+      <![CDATA[testLoginApplication test passed]]>
+    </line>
+    <line>
+      <![CDATA[LoginTest started]]>
+    </line>
+    <line>
+      <![CDATA[LoginTest finished]]>
+    </line>
+    <line>
+      <![CDATA[RegistrationTest started]]>
+    </line>
+    <line>
+      <![CDATA[RegistrationTest finished]]>
+    </line>
+    <line>
+      <![CDATA[VerifyLowestFirstPriceSortTest started]]>
+    </line>
+    <line>
+      <![CDATA[verifySortByLowestPricesFirst test started]]>
+    </line>
+    <line>
+      <![CDATA[verifySortByLowestPricesFirst test passed]]>
+    </line>
+    <line>
+      <![CDATA[LoginTest started]]>
+    </line>
+    <line>
+      <![CDATA[LoginTest finished]]>
+    </line>
+    <line>
+      <![CDATA[RegistrationTest started]]>
+    </line>
+    <line>
+      <![CDATA[RegistrationTest finished]]>
+    </line>
+    <line>
+      <![CDATA[VerifyLowestFirstPriceSortTest started]]>
+    </line>
+    <line>
+      <![CDATA[VerifyLowestFirstPriceSortTest finished]]>
+    </line>
+    <line>
+      <![CDATA[Test started]]>
+    </line>
+    <line>
+      <![CDATA[testf2 test started]]>
+    </line>
+    <line>
+      <![CDATA[LoginTest started]]>
+    </line>
+    <line>
+      <![CDATA[LoginTest finished]]>
+    </line>
+    <line>
+      <![CDATA[RegistrationTest started]]>
+    </line>
+    <line>
+      <![CDATA[RegistrationTest finished]]>
+    </line>
+    <line>
+      <![CDATA[VerifyLowestFirstPriceSortTest started]]>
+    </line>
+    <line>
+      <![CDATA[VerifyLowestFirstPriceSortTest finished]]>
+    </line>
+    <line>
+      <![CDATA[Test started]]>
+    </line>
+    <line>
+      <![CDATA[testc2 test started]]>
+    </line>
+    <line>
+      <![CDATA[LoginTest started]]>
+    </line>
+    <line>
+      <![CDATA[LoginTest finished]]>
+    </line>
+    <line>
+      <![CDATA[RegistrationTest started]]>
+    </line>
+    <line>
+      <![CDATA[RegistrationTest finished]]>
+    </line>
+    <line>
+      <![CDATA[VerifyLowestFirstPriceSortTest started]]>
+    </line>
+    <line>
+      <![CDATA[VerifyLowestFirstPriceSortTest finished]]>
+    </line>
+    <line>
+      <![CDATA[Test started]]>
+    </line>
+    <line>
+      <![CDATA[testf1 test started]]>
+    </line>
+    <line>
+      <![CDATA[LoginTest started]]>
+    </line>
+    <line>
+      <![CDATA[LoginTest finished]]>
+    </line>
+    <line>
+      <![CDATA[RegistrationTest started]]>
+    </line>
+    <line>
+      <![CDATA[RegistrationTest finished]]>
+    </line>
+    <line>
+      <![CDATA[VerifyLowestFirstPriceSortTest started]]>
+    </line>
+    <line>
+      <![CDATA[VerifyLowestFirstPriceSortTest finished]]>
+    </line>
+    <line>
+      <![CDATA[Test started]]>
+    </line>
+    <line>
+      <![CDATA[testc1 test started]]>
+    </line>
+    <line>
+      <![CDATA[testc2 test passed]]>
+    </line>
+    <line>
+      <![CDATA[testf1 test passed]]>
+    </line>
+    <line>
+      <![CDATA[testc1 test passed]]>
+    </line>
+    <line>
+      <![CDATA[testf2 test passed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-05-14T00:46:39 PKT" name="Regression Suite" finished-at="2022-05-14T00:48:12 PKT" duration-ms="93069">
+    <groups>
+    </groups>
+    <test started-at="2022-05-14T00:46:39 PKT" name="LoginTest" finished-at="2022-05-14T00:47:05 PKT" duration-ms="25552">
+      <class name="com.uiafw.cn.pn.testscripts.LoginTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.uiafw.cn.pn.testscripts.LoginTest@14fc5f04]" started-at="2022-05-14T00:46:39 PKT" name="beforeTest" finished-at="2022-05-14T00:46:43 PKT" duration-ms="3416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.uiafw.cn.pn.testscripts.LoginTest@14fc5f04]" started-at="2022-05-14T00:46:43 PKT" name="beforeMethod" finished-at="2022-05-14T00:46:43 PKT" duration-ms="9" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.uiafw.cn.pn.testscripts.LoginTest.testLoginToApplication()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testLoginToApplication()[pri:0, instance:com.uiafw.cn.pn.testscripts.LoginTest@14fc5f04]" started-at="2022-05-14T00:46:43 PKT" name="testLoginToApplication" description="Login test with valid credentials" finished-at="2022-05-14T00:47:04 PKT" duration-ms="21387" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[testLoginToApplication test started]]>
+            </line>
+            <line>
+              <![CDATA[testLoginToApplication test passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testLoginToApplication -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.uiafw.cn.pn.testscripts.LoginTest@14fc5f04]" started-at="2022-05-14T00:47:04 PKT" name="afterMethod" finished-at="2022-05-14T00:47:05 PKT" duration-ms="527" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testLoginToApplication status=SUCCESS method=LoginTest.testLoginToApplication()[pri:0, instance:com.uiafw.cn.pn.testscripts.LoginTest@14fc5f04] output=testLoginToApplication test started]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.uiafw.cn.pn.testscripts.LoginTest@14fc5f04]" started-at="2022-05-14T00:47:05 PKT" name="afterClass" finished-at="2022-05-14T00:47:05 PKT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.uiafw.cn.pn.testscripts.LoginTest@14fc5f04]" started-at="2022-05-14T00:47:05 PKT" name="afterTest" finished-at="2022-05-14T00:47:05 PKT" duration-ms="151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.uiafw.cn.pn.testscripts.LoginTest -->
+    </test> <!-- LoginTest -->
+    <test started-at="2022-05-14T00:47:05 PKT" name="RegistrationTest" finished-at="2022-05-14T00:47:27 PKT" duration-ms="22346">
+      <class name="com.uiafw.cn.pn.testscripts.RegistrationTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.uiafw.cn.pn.testscripts.RegistrationTest@3aa078fd]" started-at="2022-05-14T00:47:05 PKT" name="beforeTest" finished-at="2022-05-14T00:47:06 PKT" duration-ms="795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.uiafw.cn.pn.testscripts.RegistrationTest@3aa078fd]" started-at="2022-05-14T00:47:06 PKT" name="beforeMethod" finished-at="2022-05-14T00:47:06 PKT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.uiafw.cn.pn.testscripts.RegistrationTest.testLoginApplication()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testLoginApplication()[pri:0, instance:com.uiafw.cn.pn.testscripts.RegistrationTest@3aa078fd]" started-at="2022-05-14T00:47:06 PKT" name="testLoginApplication" finished-at="2022-05-14T00:47:27 PKT" duration-ms="21378" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[testLoginApplication test started]]>
+            </line>
+            <line>
+              <![CDATA[testLoginApplication test passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testLoginApplication -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.uiafw.cn.pn.testscripts.RegistrationTest@3aa078fd]" started-at="2022-05-14T00:47:27 PKT" name="afterMethod" finished-at="2022-05-14T00:47:27 PKT" duration-ms="56" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testLoginApplication status=SUCCESS method=RegistrationTest.testLoginApplication()[pri:0, instance:com.uiafw.cn.pn.testscripts.RegistrationTest@3aa078fd] output=testLoginApplication test started]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.uiafw.cn.pn.testscripts.RegistrationTest@3aa078fd]" started-at="2022-05-14T00:47:27 PKT" name="afterClass" finished-at="2022-05-14T00:47:27 PKT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.uiafw.cn.pn.testscripts.RegistrationTest@3aa078fd]" started-at="2022-05-14T00:47:27 PKT" name="afterTest" finished-at="2022-05-14T00:47:27 PKT" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.uiafw.cn.pn.testscripts.RegistrationTest -->
+    </test> <!-- RegistrationTest -->
+    <test started-at="2022-05-14T00:47:27 PKT" name="VerifyLowestFirstPriceSortTest" finished-at="2022-05-14T00:47:52 PKT" duration-ms="24689">
+      <class name="com.uiafw.cn.pn.testscripts.VerifyLowestFirstPriceSortTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.uiafw.cn.pn.testscripts.VerifyLowestFirstPriceSortTest@5dafbe45]" started-at="2022-05-14T00:47:27 PKT" name="beforeTest" finished-at="2022-05-14T00:47:28 PKT" duration-ms="778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.uiafw.cn.pn.testscripts.VerifyLowestFirstPriceSortTest@5dafbe45]" started-at="2022-05-14T00:47:28 PKT" name="beforeMethod" finished-at="2022-05-14T00:47:28 PKT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.uiafw.cn.pn.testscripts.VerifyLowestFirstPriceSortTest.verifySortByLowestPricesFirst()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifySortByLowestPricesFirst()[pri:0, instance:com.uiafw.cn.pn.testscripts.VerifyLowestFirstPriceSortTest@5dafbe45]" started-at="2022-05-14T00:47:28 PKT" name="verifySortByLowestPricesFirst" finished-at="2022-05-14T00:47:52 PKT" duration-ms="23677" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[verifySortByLowestPricesFirst test started]]>
+            </line>
+            <line>
+              <![CDATA[verifySortByLowestPricesFirst test passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifySortByLowestPricesFirst -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.uiafw.cn.pn.testscripts.VerifyLowestFirstPriceSortTest@5dafbe45]" started-at="2022-05-14T00:47:52 PKT" name="afterMethod" finished-at="2022-05-14T00:47:52 PKT" duration-ms="52" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifySortByLowestPricesFirst status=SUCCESS method=VerifyLowestFirstPriceSortTest.verifySortByLowestPricesFirst()[pri:0, instance:com.uiafw.cn.pn.testscripts.VerifyLowestFirstPriceSortTest@5dafbe45] output=verifySortByLowestPricesFirst test started]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.uiafw.cn.pn.testscripts.VerifyLowestFirstPriceSortTest@5dafbe45]" started-at="2022-05-14T00:47:52 PKT" name="afterClass" finished-at="2022-05-14T00:47:52 PKT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.uiafw.cn.pn.testscripts.VerifyLowestFirstPriceSortTest@5dafbe45]" started-at="2022-05-14T00:47:52 PKT" name="afterTest" finished-at="2022-05-14T00:47:52 PKT" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.uiafw.cn.pn.testscripts.VerifyLowestFirstPriceSortTest -->
+    </test> <!-- VerifyLowestFirstPriceSortTest -->
+    <test started-at="2022-05-14T00:47:52 PKT" name="Test" finished-at="2022-05-14T00:48:12 PKT" duration-ms="20369">
+      <class name="docker.DockerWithChrome2">
+        <test-method signature="testc2()[pri:0, instance:docker.DockerWithChrome2@508dec2b]" started-at="2022-05-14T00:47:52 PKT" name="testc2" finished-at="2022-05-14T00:47:58 PKT" duration-ms="6012" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[testc2 test started]]>
+            </line>
+            <line>
+              <![CDATA[testc2 test passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testc2 -->
+      </class> <!-- docker.DockerWithChrome2 -->
+      <class name="docker.DockerWithFirefox1">
+        <test-method signature="testf1()[pri:0, instance:docker.DockerWithFirefox1@24c1b2d2]" started-at="2022-05-14T00:47:52 PKT" name="testf1" finished-at="2022-05-14T00:48:04 PKT" duration-ms="11720" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[testf1 test started]]>
+            </line>
+            <line>
+              <![CDATA[testf1 test passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testf1 -->
+      </class> <!-- docker.DockerWithFirefox1 -->
+      <class name="docker.DockerWithFirefox2">
+        <test-method signature="testf2()[pri:0, instance:docker.DockerWithFirefox2@7dc19a70]" started-at="2022-05-14T00:47:52 PKT" name="testf2" finished-at="2022-05-14T00:48:12 PKT" duration-ms="20363" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[testf2 test started]]>
+            </line>
+            <line>
+              <![CDATA[testf2 test passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testf2 -->
+      </class> <!-- docker.DockerWithFirefox2 -->
+      <class name="com.uiafw.cn.pn.testscripts.VerifyLowestFirstPriceSortTest">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.uiafw.cn.pn.testscripts.VerifyLowestFirstPriceSortTest@5dafbe45]" started-at="2022-05-14T00:46:39 PKT" name="beforeSuite" finished-at="2022-05-14T00:46:39 PKT" duration-ms="335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.uiafw.cn.pn.testscripts.VerifyLowestFirstPriceSortTest@5dafbe45]" started-at="2022-05-14T00:48:12 PKT" name="afterSuite" finished-at="2022-05-14T00:48:12 PKT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.uiafw.cn.pn.testscripts.VerifyLowestFirstPriceSortTest -->
+      <class name="docker.DockerWithChrome1">
+        <test-method signature="testc1()[pri:0, instance:docker.DockerWithChrome1@1e4f4a5c]" started-at="2022-05-14T00:47:52 PKT" name="testc1" finished-at="2022-05-14T00:48:08 PKT" duration-ms="16513" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[testc1 test started]]>
+            </line>
+            <line>
+              <![CDATA[testc1 test passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testc1 -->
+      </class> <!-- docker.DockerWithChrome1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Regression Suite -->
+</testng-results>
