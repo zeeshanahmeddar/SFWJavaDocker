@@ -3,10 +3,8 @@ package com.uiafw.cn.pn.helper.wait;
 import java.time.Duration;
 
 import org.apache.log4j.Logger;
-import org.openqa.selenium.ElementNotVisibleException;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.NoSuchFrameException;
-import org.openqa.selenium.StaleElementReferenceException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
@@ -40,8 +38,8 @@ public class WaitHelper {
 		FluentWait<WebDriver> fwait = fluentWait(timeOutInSeconds, pollingEveryInMilliSec);
 		fwait.pollingEvery(Duration.ofMillis(pollingEveryInMilliSec));
 		fwait.ignoring(NoSuchElementException.class);
-		fwait.ignoring(ElementNotVisibleException.class);
-		fwait.ignoring(StaleElementReferenceException.class);
+//		fwait.ignoring(ElementNotVisibleException.class);
+//		fwait.ignoring(StaleElementReferenceException.class);
 		fwait.ignoring(NoSuchFrameException.class);
 		return fwait;
 	}
